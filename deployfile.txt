@@ -1,5 +1,30 @@
 1. https://hall-booking-api-0x9s.onrender.com/creating
+
+in  body add {
+    "roomID":5,
+    "numberOfSeats":45,
+     "amenities":"['Heater','TV','AC']",
+        "PricePerHour":1000
+
+}
 2. https://hall-booking-api-0x9s.onrender.com/booking
+
+in body add {
+    "customerName":"Hari",
+    "Date":"5/4/2024",
+    "startTime":"11AM",
+    "endTime":"3PM",
+    "Room_ID":1
+}
+
+check booked room {
+    "customerName":"Hari",
+    "Date":"5/4/2024",
+    "startTime":"11AM",
+    "endTime":"3PM",
+    "Room_ID":4
+}
+
 3. https://hall-booking-api-0x9s.onrender.com/booked/room
 4. https://hall-booking-api-0x9s.onrender.com/booked/customer
 5. https://hall-booking-api-0x9s.onrender.com/booked/customer/Arun
