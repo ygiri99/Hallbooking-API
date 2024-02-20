@@ -1,0 +1,5 @@
+1. https://hall-booking-api-0x9s.onrender.com/creating
+2. https://hall-booking-api-0x9s.onrender.com/booking
+3. https://hall-booking-api-0x9s.onrender.com/booked/room
+4. https://hall-booking-api-0x9s.onrender.com/booked/customer
+5. https://hall-booking-api-0x9s.onrender.com/booked/customer/Arun
